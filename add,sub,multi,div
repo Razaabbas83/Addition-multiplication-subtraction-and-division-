@@ -1,0 +1,23 @@
+class Easy
+
+{
+
+ public static void main(String[] args) 
+
+ {
+
+ int x=5,y=3;
+
+ System.out.println("Add="+(x+y));
+
+ System.out.println("Sub="+(x-y));
+
+ System.out.println("Multi="+(x*y));
+
+ System.out.println("Div="+(x/y));
+
+ 
+
+ }
+
+}
